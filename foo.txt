@@ -1,2 +1,3 @@
 fooo
 more fooo
+foo - 3
