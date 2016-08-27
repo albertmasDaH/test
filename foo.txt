@@ -7,3 +7,4 @@ foo - 5
 foo - 7
 foo - 6
 
+foo - 8
